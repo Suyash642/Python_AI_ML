@@ -1,0 +1,29 @@
+1. Why list is used?
+Ans: list is a dynamic array which contains elements of every datype like int, float, string, char, objects,
+tuples which is the most important feature of list. It is mutable means once defined, it can change later.List
+also provided with lots of inbuilt functions/methods. List contains duplicate elements too and it contains ordered
+collection of elements.
+
+2. How do list and sets differ?
+Ans: 
+i) List:
+    - Lists are just like dynamic sized arrays which is collection of different elements
+    - Lists are mutable
+    - Lists contains duplicate elements
+    - Lists are ordered collection of an elements
+    - It is defined within square brackets []
+
+ii) Sets:
+    - Set is a unordered collection of an items
+    - Set does not contain duplicate elements
+    - Set is mutable
+    - Set is defined within curly brackets {}
+
+3. Applications of dictionaries in real world:
+Ans: Dictionaries contain key-value pairs mapping format and internally maintained using hashing 
+of which value can be retrived using key.
+Few real world examples are:
+    - Login id and Password
+    - Username and Useraddress
+    - DTEcode and College name
+    - Rolllist and Studentname
