@@ -1,4 +1,4 @@
-#module for getting square of no., 
+#module for getting square of no., maximum and minimum no. of list and sum of list
 
 #square of number
 def getsquare(ele):
